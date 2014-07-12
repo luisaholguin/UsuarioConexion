@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @authora: Luisa Holguin
+ * @authora: Luisa Holguin C
  */
 public class Interfaz extends javax.swing.JFrame {
 
